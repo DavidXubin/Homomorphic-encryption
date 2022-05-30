@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="simpleFHE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simpleFHE_jar</output-path>
+    <root id="root">
+      <element id="archive" name="simpleFHE.jar">
+        <element id="module-output" name="simpleFHE" />
+      </element>
+      <element id="library" level="project" name="Maven: ch.obermuhlner:big-math:2.3.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.9" />
+      <element id="library" level="project" name="Maven: com.squareup.jnagmp:jnagmp:3.0.0" />
+      <element id="library" level="project" name="Maven: net.java.dev.jna:jna:5.5.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.9" />
+      <element id="library" level="project" name="Maven: org.ujmp:ujmp-core:0.3.0" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+      <element id="library" level="project" name="Maven: org.json:json:20141113" />
+    </root>
+  </artifact>
+</component>

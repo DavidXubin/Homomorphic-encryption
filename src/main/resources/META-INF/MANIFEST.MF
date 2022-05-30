@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: big-math-2.3.0.jar jackson-core-2.9.9.jar jnagmp-3.0.0.jar j
+ na-5.5.0.jar jackson-databind-2.9.9.jar ujmp-core-0.3.0.jar commons-cod
+ ec-1.9.jar jackson-annotations-2.9.0.jar json-20141113.jar
+
